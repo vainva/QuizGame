@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         String table = "quiz";
-        String[] columns = {"*"};  // All columns.
+        String[] columns = {"*"};  
         String orderBy = "RANDOM()";
         String limit = String.valueOf(QUIZ_COUNT);
 
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void showNextQuiz() {
 
-        // Päivitetään quizNumberLabel
+        // Päivitetään countLabel
 
         countLabel.setText("Question " + quizCount);
 
