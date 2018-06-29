@@ -1,0 +1,605 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who had a 1973 hit with the song &#039;Hocus Pocus&#039;?",
+      "correct_answer": "Focus",
+      "incorrect_answers": [
+        "Pilot",
+        "Rush",
+        "AC/DC"
+      ]
+    },
+    {
+      "category": "Science: Mathematics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In base 2, what is 1 + 1?",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "Two (2)",
+        "01",
+        "11"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the first jedi that Starkiller had to kill in Star Wars: The Force Unleashed?",
+      "correct_answer": "Rahm Kota",
+      "incorrect_answers": [
+        "Ahsoka Tano",
+        "Kazdan Paratus",
+        "Kento Marek"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the capital of Peru?",
+      "correct_answer": "Lima",
+      "incorrect_answers": [
+        "Santiago",
+        "Montevideo",
+        "Buenos Aires"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which 1973 film does Yul Brynner play a robotic cowboy who malfunctions and goes on a killing\tspree?",
+      "correct_answer": "Westworld",
+      "incorrect_answers": [
+        "Runaway",
+        "Android",
+        "The Terminators"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the defining characteristic of someone who is described as hirsute?",
+      "correct_answer": "Hairy",
+      "incorrect_answers": [
+        "Rude",
+        "Funny",
+        "Tall"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the most expensive weapon in Counter-Strike: Global Offensive?",
+      "correct_answer": "Scar-20/G3SG1",
+      "incorrect_answers": [
+        "M4A1",
+        "AWP",
+        "R8 Revolver"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The idea of Socialism was articulated and advanced by whom?",
+      "correct_answer": "Karl Marx",
+      "incorrect_answers": [
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Vladimir Putin"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which country&#039;s version of Half-Life are the HECU Marines replaced with robots?",
+      "correct_answer": "Germany",
+      "incorrect_answers": [
+        "Japan",
+        "China",
+        "France"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "When did Spanish Peninsular War start?",
+      "correct_answer": "1808",
+      "incorrect_answers": [
+        "1806",
+        "1810",
+        "1809"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the relationship between Rick and Morty in the show &quot;Rick and Morty&quot;?",
+      "correct_answer": "Grandfather and Grandson",
+      "incorrect_answers": [
+        "Father and Son",
+        "Best Friends",
+        "Crimefighting Partners"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following countries is within the Eurozone but outside of the Schengen Area?",
+      "correct_answer": "Cyprus",
+      "incorrect_answers": [
+        "Malta",
+        "Greece",
+        "Portugal"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+      "correct_answer": "Ohio",
+      "incorrect_answers": [
+        "Florida",
+        "Idaho",
+        "New Mexico"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following former Yugoslavian states is landlocked?",
+      "correct_answer": "Serbia",
+      "incorrect_answers": [
+        "Bosnia and Herzegovina",
+        "Montenegro",
+        "Croatia"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these artists was NOT a member of the electronic music supergroup Swedish House Mafia, which split up in 2013?",
+      "correct_answer": "Alesso",
+      "incorrect_answers": [
+        "Steve Angello",
+        "Sebastian Ingrosso",
+        "Axwell"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The F1 season of 1994 is remembered for what tragic event?",
+      "correct_answer": "Death of Ayrton Senna (San Marino)",
+      "incorrect_answers": [
+        "The Showdown (Australia)",
+        "Verstappen on Fire (Germany)",
+        "Schumacher&#039;s Ban (Britain)"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In web design, what does CSS stand for?",
+      "correct_answer": "Cascading Style Sheet",
+      "incorrect_answers": [
+        "Counter Strike: Source",
+        "Corrective Style Sheet",
+        "Computer Style Sheet"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the capital of the US state Nevada?",
+      "correct_answer": "Carson City",
+      "incorrect_answers": [
+        "Las Vegas",
+        "Henderson",
+        "Reno"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which artist released the 2012 single &quot;Harlem Shake&quot;, which was used in numerous YouTube videos in 2013?",
+      "correct_answer": "Baauer",
+      "incorrect_answers": [
+        "RL Grime",
+        "NGHTMRE",
+        "Flosstradamus"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the corgi in Cowboy Bebop?",
+      "correct_answer": "Einstein",
+      "incorrect_answers": [
+        "Edward",
+        "Rocket",
+        "Joel"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the standard frame rate for animation?",
+      "correct_answer": "24 FPS",
+      "incorrect_answers": [
+        "12 FPS",
+        "30 FPS",
+        "60 FPS"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the first Disney movie to use CGI?",
+      "correct_answer": "The Black Cauldron",
+      "incorrect_answers": [
+        "Tron",
+        "Toy Story",
+        "Fantasia"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following Pok&eacute;mon games released first?",
+      "correct_answer": "Pok&eacute;mon Crystal",
+      "incorrect_answers": [
+        "Pok&eacute;mon Platinum",
+        "Pok&eacute;mon FireRed",
+        "Pok&eacute;mon Black"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What year was the game &quot;Overwatch&quot; revealed?",
+      "correct_answer": "2014",
+      "incorrect_answers": [
+        "2015",
+        "2011",
+        "2008"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "One of the early prototypes of the Sega Dreamcast controller resembled which of the following?",
+      "correct_answer": "Television Remote",
+      "incorrect_answers": [
+        "Tablet",
+        "Hairdryer",
+        "Flip Phone"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Bohdan Khmelnytsky was which of the following?",
+      "correct_answer": "Leader of the Ukrainian Cossacks",
+      "incorrect_answers": [
+        "General Secretary of the Communist Party of the USSR",
+        "Prince of Wallachia",
+        "Grand Prince of Novgorod"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film &quot;The Curse of Frankenstein&quot;?",
+      "correct_answer": "Peter Cushing",
+      "incorrect_answers": [
+        "Boris Karloff",
+        "Vincent Price",
+        "Lon Chaney Jr."
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these is NOT a Humongous Entertainment game franchise?",
+      "correct_answer": "Commander Keen",
+      "incorrect_answers": [
+        "Pajama Sam",
+        "Putt-Putt",
+        "Freddi Fish"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which horror movie had a sequel in the form of a video game released in August 20, 2002?",
+      "correct_answer": "The Thing",
+      "incorrect_answers": [
+        "The Evil Dead",
+        "Saw",
+        "Alien"
+      ]
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The greek god Poseidon was the god of what?",
+      "correct_answer": "The Sea",
+      "incorrect_answers": [
+        "War",
+        "Sun",
+        "Fire"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the anime Black Butler, who is betrothed to be married to Ciel Phantomhive?",
+      "correct_answer": "Elizabeth Midford",
+      "incorrect_answers": [
+        "Rachel Phantomhive",
+        "Alexis Leon Midford",
+        "Angelina Dalles"
+      ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which universe crossover was introduced in the &quot;Sonic the Hedgehog&quot; comic issue #247?",
+      "correct_answer": "Mega Man",
+      "incorrect_answers": [
+        "Super Mario Brothers",
+        "Alex Kidd",
+        "Super Monkey Ball"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In what year was &quot;Antichamber&quot; released?",
+      "correct_answer": "2013",
+      "incorrect_answers": [
+        "2012",
+        "2014",
+        "2011"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?",
+      "correct_answer": "The Party",
+      "incorrect_answers": [
+        "The Weather Girls",
+        "The Pussycat Dolls",
+        "The Cheetah Girls"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the official German name of the Swiss Federal Railways?",
+      "correct_answer": "Schweizerische Bundesbahnen",
+      "incorrect_answers": [
+        "Schweizerische Nationalbahnen",
+        "Bundesbahnen der Schweiz",
+        "Schweizerische Staatsbahnen"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is not an Ed Sheeran album?",
+      "correct_answer": "-",
+      "incorrect_answers": [
+        "+",
+        "X",
+        "&divide;"
+      ]
+    },
+    {
+      "category": "Entertainment: Board Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What do you declare in Rīchi Mahjong when you&#039;ve drawn your winning tile?",
+      "correct_answer": "Tsumo",
+      "incorrect_answers": [
+        "Ron",
+        "Rīchi",
+        "Kan"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following anime of the mecha genre began airing in 1982?",
+      "correct_answer": "The Super Dimension Fortress Macross",
+      "incorrect_answers": [
+        "Mobile Suit Gundam",
+        "Armored Trooper VOTOMS",
+        "Neon Genesis Evangelion"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the Mass Effect trilogy, who is the main protagonist?",
+      "correct_answer": "Shepard",
+      "incorrect_answers": [
+        "Mordin",
+        "Garrus",
+        "Thane"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Phil Fish was the designer of which game?",
+      "correct_answer": "Fez",
+      "incorrect_answers": [
+        "Super Meat Boy",
+        "Hotline Miami",
+        "FTL"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name of the protagonist in the movie Commando (1985)?",
+      "correct_answer": "John Matrix",
+      "incorrect_answers": [
+        "Ben Richards",
+        "Douglas Quaid",
+        "Harry Tasker"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is Meg&#039;s full name in &quot;Family Guy&quot;?",
+      "correct_answer": "Megatron Griffin",
+      "incorrect_answers": [
+        "Who-Cares Griffin",
+        "Neil Griffin",
+        "Megan Griffin"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Dota 2, what is Earthshaker&#039;s real name?",
+      "correct_answer": "Raigor Stonehoof",
+      "incorrect_answers": [
+        "Banehallow Ambry",
+        "Carl",
+        "Barathrum"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;Overwatch&quot;, how much health does Roadhog&#039;s &quot;Take a Breather&quot; ability recover?",
+      "correct_answer": "300",
+      "incorrect_answers": [
+        "100",
+        "200",
+        "400"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which product did Nokia, the telecommunications company, originally sell?",
+      "correct_answer": "Paper",
+      "incorrect_answers": [
+        "Phones",
+        "Computers",
+        "Processors"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+      "correct_answer": "Max Payne",
+      "incorrect_answers": [
+        "Alan Wake",
+        "Hitman",
+        "God Of War"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+      "correct_answer": "Pancreatic",
+      "incorrect_answers": [
+        "Bone",
+        "Liver",
+        "Stomach"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In season one of the US Kitchen Nightmares, Gordan Ramsay tried to save 10 different restaurants. How many ended up closing afterwards?",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "6",
+        "3",
+        "0"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the &quot;Star Wars&quot; universe, what species is Grand Admiral Thrawn?",
+      "correct_answer": "Chiss",
+      "incorrect_answers": [
+        "Gungans",
+        "Pantorans",
+        "Twi&#039;lek"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Guild Wars 2, which Chinese Zodiac sign is not represented in the Zodiac Weapon Set?",
+      "correct_answer": "Ox",
+      "incorrect_answers": [
+        "Rabbit",
+        "Tiger",
+        "Goat"
+      ]
+    }
+  ]
+}
